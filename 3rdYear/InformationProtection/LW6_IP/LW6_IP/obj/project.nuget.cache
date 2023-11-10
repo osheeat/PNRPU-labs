@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/KhAA5p2W+P6slcFzty8k0MQoPbv9HLFR7dIGnCWzjIc2nBizt1DNgPnC+Jl3GicaT5Cm75Whl5qexA5SpqUHg==",
+  "success": true,
+  "projectFilePath": "E:\\Study\\source\\repos\\6sem\\IP\\LW6_IP\\LW6_IP\\LW6_IP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\galileg\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\galileg\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\galileg\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\galileg\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+E:\Study\source\repos\6sem\IP\LW6_IP\LW6_IP\bin\Debug\net6.0-windows\LW6_IP.exe
+E:\Study\source\repos\6sem\IP\LW6_IP\LW6_IP\bin\Debug\net6.0-windows\LW6_IP.deps.json
+E:\Study\source\repos\6sem\IP\LW6_IP\LW6_IP\bin\Debug\net6.0-windows\LW6_IP.runtimeconfig.json
+E:\Study\source\repos\6sem\IP\LW6_IP\LW6_IP\bin\Debug\net6.0-windows\LW6_IP.dll
+E:\Study\source\repos\6sem\IP\LW6_IP\LW6_IP\bin\Debug\net6.0-windows\LW6_IP.pdb
+E:\Study\source\repos\6sem\IP\LW6_IP\LW6_IP\obj\Debug\net6.0-windows\LW6_IP.csproj.AssemblyReference.cache
+E:\Study\source\repos\6sem\IP\LW6_IP\LW6_IP\obj\Debug\net6.0-windows\LW6_IP.Form1.resources
+E:\Study\source\repos\6sem\IP\LW6_IP\LW6_IP\obj\Debug\net6.0-windows\LW6_IP.csproj.GenerateResource.cache
+E:\Study\source\repos\6sem\IP\LW6_IP\LW6_IP\obj\Debug\net6.0-windows\LW6_IP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\source\repos\6sem\IP\LW6_IP\LW6_IP\obj\Debug\net6.0-windows\LW6_IP.AssemblyInfoInputs.cache
+E:\Study\source\repos\6sem\IP\LW6_IP\LW6_IP\obj\Debug\net6.0-windows\LW6_IP.AssemblyInfo.cs
+E:\Study\source\repos\6sem\IP\LW6_IP\LW6_IP\obj\Debug\net6.0-windows\LW6_IP.csproj.CoreCompileInputs.cache
+E:\Study\source\repos\6sem\IP\LW6_IP\LW6_IP\obj\Debug\net6.0-windows\LW6_IP.dll
+E:\Study\source\repos\6sem\IP\LW6_IP\LW6_IP\obj\Debug\net6.0-windows\refint\LW6_IP.dll
+E:\Study\source\repos\6sem\IP\LW6_IP\LW6_IP\obj\Debug\net6.0-windows\LW6_IP.pdb
+E:\Study\source\repos\6sem\IP\LW6_IP\LW6_IP\obj\Debug\net6.0-windows\LW6_IP.genruntimeconfig.cache
+E:\Study\source\repos\6sem\IP\LW6_IP\LW6_IP\obj\Debug\net6.0-windows\ref\LW6_IP.dll
