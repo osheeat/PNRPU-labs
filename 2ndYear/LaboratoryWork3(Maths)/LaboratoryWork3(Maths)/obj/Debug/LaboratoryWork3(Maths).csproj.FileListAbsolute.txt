@@ -1,0 +1,7 @@
+D:\c# projects\LaboratoryWork3(Maths)\LaboratoryWork3(Maths)\bin\Debug\LaboratoryWork3(Maths).exe.config
+D:\c# projects\LaboratoryWork3(Maths)\LaboratoryWork3(Maths)\bin\Debug\LaboratoryWork3(Maths).exe
+D:\c# projects\LaboratoryWork3(Maths)\LaboratoryWork3(Maths)\bin\Debug\LaboratoryWork3(Maths).pdb
+D:\c# projects\LaboratoryWork3(Maths)\LaboratoryWork3(Maths)\obj\Debug\LaboratoryWork3(Maths).csproj.AssemblyReference.cache
+D:\c# projects\LaboratoryWork3(Maths)\LaboratoryWork3(Maths)\obj\Debug\LaboratoryWork3(Maths).csproj.CoreCompileInputs.cache
+D:\c# projects\LaboratoryWork3(Maths)\LaboratoryWork3(Maths)\obj\Debug\LaboratoryWork3(Maths).exe
+D:\c# projects\LaboratoryWork3(Maths)\LaboratoryWork3(Maths)\obj\Debug\LaboratoryWork3(Maths).pdb
