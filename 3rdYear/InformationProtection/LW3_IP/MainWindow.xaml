@@ -1,0 +1,56 @@
+﻿<Window x:Class="LW3_IP.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LW3_IP"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="550" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Column="2">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <TextBlock Text="p" Margin="50,20,20,0" FontSize="15" Grid.Row="0" Grid.Column="2"></TextBlock>
+            <TextBlock Text="g" Margin="50,20,20,0" FontSize="15" Grid.Row="1" Grid.Column="2"></TextBlock>
+            <TextBlock Text="x" Margin="50,20,20,0" FontSize="15" Grid.Row="2" Grid.Column="2"></TextBlock>
+            <TextBlock Text="y" Margin="50,20,20,0" FontSize="15" Grid.Row="3" Grid.Column="2"></TextBlock>
+            <TextBlock Text="A" Margin="50,20,20,0" FontSize="15" Grid.Row="4" Grid.Column="2"></TextBlock>
+            <TextBlock Text="B" Margin="50,20,20,0" FontSize="15" Grid.Row="5" Grid.Column="2"></TextBlock>
+            <TextBlock Text="Kx" Margin="50,20,20,0" FontSize="15" Grid.Row="6" Grid.Column="2"></TextBlock>
+            <TextBlock Text="Ky" Margin="50,20,20,0" FontSize="15" Grid.Row="7" Grid.Column="2"></TextBlock>
+
+            <TextBox x:Name="p" Height="30" Width="300" Margin="20,20,20,0" IsReadOnly="True" Grid.Row="0" Grid.Column="2"></TextBox >
+            <TextBox x:Name="g" Height="30" Width="300" Margin="20,20,20,0" IsReadOnly="True" Grid.Row="1" Grid.Column="2"></TextBox >
+            <TextBox x:Name="x" Height="30" Width="300" Margin="20,20,20,0" IsReadOnly="True" Grid.Row="2" Grid.Column="2"></TextBox >
+            <TextBox x:Name="y" Height="30" Width="300" Margin="20,20,20,0" IsReadOnly="True" Grid.Row="3" Grid.Column="2"></TextBox >
+            <TextBox x:Name="A" Height="30" Width="300" Margin="20,20,20,0" IsReadOnly="True" Grid.Row="4" Grid.Column="2"></TextBox >
+            <TextBox x:Name="B" Height="30" Width="300" Margin="20,20,20,0" IsReadOnly="True" Grid.Row="5" Grid.Column="2"></TextBox >
+            <TextBox x:Name="Kx" Height="30" Width="300" Margin="20,20,20,0" IsReadOnly="True" Grid.Row="6" Grid.Column="2"></TextBox >
+            <TextBox x:Name="Ky" Height="30" Width="300" Margin="20,20,20,0" IsReadOnly="True" Grid.Row="7" Grid.Column="2"></TextBox >
+        </Grid>
+
+
+        <StackPanel Grid.Column="0" Margin="10,0,0,22">
+            <Button Height="30" Width="200" Margin="10,10,80,10" Content="Сгенерировать ключи" Click="Button_Click"></Button>
+            <TextBlock Margin="20,10,0,10" Text="Исходный текст"></TextBlock>
+            <TextBox x:Name="input" Width="272" Height="63" Margin="0,0,0,10"></TextBox>
+            <Button Height="30" Width="200" Margin="10,10,80,10" Content="Зашифровать" Click="Button_Click_1"></Button>
+            <TextBlock Margin="20,10,0,10" Text="Зашифрованный текст"></TextBlock>
+            <TextBox x:Name="output" Width="266" Height="241" Margin="0,0,0,10" IsReadOnly="True"></TextBox>
+        </StackPanel>
+    </Grid>
+</Window>

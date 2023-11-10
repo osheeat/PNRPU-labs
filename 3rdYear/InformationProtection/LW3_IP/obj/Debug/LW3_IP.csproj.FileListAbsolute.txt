@@ -1,0 +1,16 @@
+E:\Study\source\repos\6sem\IP\LW3_IP\LW3_IP\obj\Debug\LW3_IP.csproj.AssemblyReference.cache
+E:\Study\source\repos\6sem\IP\LW3_IP\LW3_IP\obj\Debug\LW3_IP.csproj.SuggestedBindingRedirects.cache
+E:\Study\source\repos\6sem\IP\LW3_IP\LW3_IP\obj\Debug\MainWindow.g.cs
+E:\Study\source\repos\6sem\IP\LW3_IP\LW3_IP\obj\Debug\App.g.cs
+E:\Study\source\repos\6sem\IP\LW3_IP\LW3_IP\obj\Debug\LW3_IP_MarkupCompile.cache
+E:\Study\source\repos\6sem\IP\LW3_IP\LW3_IP\obj\Debug\LW3_IP_MarkupCompile.lref
+E:\Study\source\repos\6sem\IP\LW3_IP\LW3_IP\bin\Debug\LW3_IP.exe.config
+E:\Study\source\repos\6sem\IP\LW3_IP\LW3_IP\bin\Debug\LW3_IP.exe
+E:\Study\source\repos\6sem\IP\LW3_IP\LW3_IP\bin\Debug\LW3_IP.pdb
+E:\Study\source\repos\6sem\IP\LW3_IP\LW3_IP\obj\Debug\MainWindow.baml
+E:\Study\source\repos\6sem\IP\LW3_IP\LW3_IP\obj\Debug\LW3_IP.g.resources
+E:\Study\source\repos\6sem\IP\LW3_IP\LW3_IP\obj\Debug\LW3_IP.Properties.Resources.resources
+E:\Study\source\repos\6sem\IP\LW3_IP\LW3_IP\obj\Debug\LW3_IP.csproj.GenerateResource.cache
+E:\Study\source\repos\6sem\IP\LW3_IP\LW3_IP\obj\Debug\LW3_IP.csproj.CoreCompileInputs.cache
+E:\Study\source\repos\6sem\IP\LW3_IP\LW3_IP\obj\Debug\LW3_IP.exe
+E:\Study\source\repos\6sem\IP\LW3_IP\LW3_IP\obj\Debug\LW3_IP.pdb
