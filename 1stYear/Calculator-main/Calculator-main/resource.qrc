@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>img/Money_Cash.jpg</file>
+    </qresource>
+</RCC>

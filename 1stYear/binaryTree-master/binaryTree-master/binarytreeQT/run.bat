@@ -1,0 +1,1 @@
+start "" C:\Users\oleg9\source\repos\helper\Debug\helper.exe
